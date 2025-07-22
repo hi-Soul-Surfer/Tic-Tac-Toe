@@ -19,7 +19,7 @@ A modern Tic Tac Toe game built using HTML, CSS, and JavaScript. Play against a 
 
 Here’s a look at the game in action:
 
-![Tic Tac Toe Screenshot](images/screenshot1.png)
+![Tic Tac Toe Screenshot](screenshot1.png)
 
 
 ## 📂 Folder Structure
