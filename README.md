@@ -41,9 +41,3 @@ tic-tac-toe/docs/
 ## 📫 Contact
 
 Created with ❤️ by [Himanshi Sharma](https://linkedin.com/in/himanshi-sharma-731/)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
