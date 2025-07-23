@@ -40,4 +40,4 @@ tic-tac-toe/docs/
 
 ## 📫 Contact
 
-Created with ❤️ by [Himanshi Sharma](https://linkedin.com/in/himanshi-sharma-731/)
+Created with ❤️ by [Himanshi Sharma](https://www.linkedin.com/in/himanshi-sharma731)
